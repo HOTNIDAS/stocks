@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwoTouchMail</string>
+    <string name="button_pickup">Pick Me Up</string>
+    <string name="button_no_dinner">I Dont Need This Dinner</string>
+    <string name="button_send">Send Mail</string>
+    <string name="subject">Subject</string>
+    <string name="place">Place</string>
+    <string name="station">Station</string>
+    <string name="school">School</string>
+    <string name="always">Always</string>
+    <string name="mail_to">thread0921@gmail.com</string>
+</resources>
